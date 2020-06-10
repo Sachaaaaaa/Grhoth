@@ -1,5 +1,0 @@
-requests
-json
-getpass
-hashlib
-os
