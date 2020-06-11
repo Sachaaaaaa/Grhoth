@@ -7,7 +7,7 @@ Grhoth it is an osint tool which is used to extract information from your facebo
 #Installation
 -------------------------------------------------------------------------------------
 clone https://github.com/Sachaaaaaa/Grhoth.git <br/>
-cd OSIF
+cd Grhoth
 
 #Setup
 -------------------------------------------------------------------------------------
