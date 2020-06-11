@@ -1,22 +1,27 @@
 # Grhoth
 
 #Description
+-------------------------------------------------------------------------------------
 Grhoth it is an osint tool which is used to extract information from your facebook friends like email address, phone number or many other things
 
 #Installation
+-------------------------------------------------------------------------------------
 clone https://github.com/Sachaaaaaa/Grhoth.git
 cd OSIF
 
 #Setup
+-------------------------------------------------------------------------------------
 pip2 install -r requirements.txt
 
 #Running
+-------------------------------------------------------------------------------------
 python2 Grhoth.py
 
 /!\ (Your VPN can bug the program)/!\ 
 /!\ (if you use this program too many times your facebook account can be blocked so don't overuse it )/!\ 
 
 #HOW TO USE IT [ENG]
+-------------------------------------------------------------------------------------
 Grhoth is a tool that requires a token to function correctly
 (to generate a token tape "token, to add an already existing tape "add_token")
 now the "hardest" part is done
@@ -26,6 +31,7 @@ now all you have to do is execute the commands :)
 (to see the commands list type "help" or look at the list below)
 
 #HOW TO USE IT [FR]
+-------------------------------------------------------------------------------------
 Grhoth est un outils qui nécessite un token pour fonctionner 
 (pour en générer un token tape "token", pour en ajouter un dejà existant tape "add_token") 
 une fois ce token généré le plus dure est fait 
