@@ -1,10 +1,6 @@
 # Grhoth
-#    ______     ______     __  __     ______     ______   __  __    
-#   /\  ___\   /\  == \   /\ \_\ \   /\  __ \   /\__  _\ /\ \_\ \   
-#  \ \ \__ \  \ \  __<   \ \  __ \  \ \ \/\ \  \/_/\ \/ \ \  __ \  
-#  \ \_____\  \ \_\ \_\  \ \_\ \_\  \ \_____\    \ \_\  \ \_\ \_\ 
-#  \/_____/   \/_/ /_/   \/_/\/_/   \/_____/     \/_/   \/_/\/_/ 
-  
+
+#Description
 Grhoth it is an osint tool which is used to extract information from your facebook friends like email address, phone number or many other things
 
 #Installation
@@ -38,7 +34,6 @@ ou "load_token" pour actualisé le token)
 il ne vous reste plus qu'a executer les commandes :)
 (pour voir la liste des commandes tape "help" ou regarde la liste ci dessous)
 
-# HELP:
 -------------------------------------------------------------------------------------
                                   HELP
 -------------------------------------------------------------------------------------
