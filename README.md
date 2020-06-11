@@ -1,5 +1,24 @@
 # Grhoth
-it is an osint tool which is used to extract information from your facebook friends like email address, phone number or many other things
+ ______     ______     __  __     ______     ______   __  __    
+/\  ___\   /\  == \   /\ \_\ \   /\  __ \   /\__  _\ /\ \_\ \   
+\ \ \__ \  \ \  __<   \ \  __ \  \ \ \/\ \  \/_/\ \/ \ \  __ \  
+ \ \_____\  \ \_\ \_\  \ \_\ \_\  \ \_____\    \ \_\  \ \_\ \_\ 
+  \/_____/   \/_/ /_/   \/_/\/_/   \/_____/     \/_/   \/_/\/_/ 
+  
+Grhoth it is an osint tool which is used to extract information from your facebook friends like email address, phone number or many other things
+
+#Installation
+clone https://github.com/Sachaaaaaa/Grhoth.git
+cd OSIF
+
+#Setup
+pip2 install -r requirements.txt
+
+#Running
+python2 Grhoth.py
+
+/!\ (Your VPN can bug the program)/!\ 
+/!\ (if you use this program too many times your facebook account can be blocked so don't overuse it )/!\ 
 
 #HOW TO USE IT [ENG]
 Grhoth is a tool that requires a token to function correctly
