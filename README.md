@@ -27,47 +27,55 @@ il ne vous reste plus qu'a executer les commandes :)
 get_phone 
 -------------------------------------------------------------------------------------
 get_phone : retrieves the following information: "name, id, phone number, mail address and location" of all your friends with at least one telephone number.
-the information will be displayed in the form: "name" + "id" + "phone number" + "mail address" + "location".
+The information will be displayed in the form: "name" + "id" + "phone number" + "mail address" + "location".
+
 -------------------------------------------------------------------------------------
 get_phone1
 -------------------------------------------------------------------------------------
 get_phone1 : retrieves the following information: "name" + "id" + "phone number" + "location" of all your friends with at least one telephone number.
-the information will be displayed in the form: "name" + "id" + "phone number" + "location".
+The information will be displayed in the form: "name" + "id" + "phone number" + "location".
+
 -------------------------------------------------------------------------------------
 get_phone2
 -------------------------------------------------------------------------------------
 get_phone2 : retrieves the following information: "name" + "id" + "phone number" of all your friends with at least one telephone number.
-the information will be displayed in the form: "name" + "id" + "phone number".
+The information will be displayed in the form: "name" + "id" + "phone number".
+
 -------------------------------------------------------------------------------------
 get_mail 
 -------------------------------------------------------------------------------------
 get_mail : retrieves the following information: "name, id, phone number, mail address and location" of all your friends with at least an email address.
-the information will be displayed in the form: "name" + "id" + "phone number" + "mail address + "location".
+The information will be displayed in the form: "name" + "id" + "phone number" + "mail address + "location".
+
 -------------------------------------------------------------------------------------
 get_mail1
 -------------------------------------------------------------------------------------
 get_mail1 : retrieves the following information: "name" + "id" + "mail address" + "location" of all your friends with at least an email. address
-the information will be displayed in the form: "name" + "id" + "mail address" + "location".
+The information will be displayed in the form: "name" + "id" + "mail address" + "location".
+
 -------------------------------------------------------------------------------------
 get_mail2
 -------------------------------------------------------------------------------------
 get_mail2 : retrieves the following information: "name" + "id" + "mail address" of all your friends with at least an email address.
-the information will be displayed in the form: "name" + "id" + "mail address".
+The information will be displayed in the form: "name" + "id" + "mail address".
+
 -------------------------------------------------------------------------------------
 get_all 
 -------------------------------------------------------------------------------------
 get_all : retrieves the following information: "name, id, phone number, mail address and location" of all your friends.
-the information will be displayed in the form: "name" + "id" + "phone number" + "mail address" + "location".
+The information will be displayed in the form: "name" + "id" + "phone number" + "mail address" + "location".
+
 -------------------------------------------------------------------------------------
 get_search
 -------------------------------------------------------------------------------------
-get_search : retrieves the following information: "name, id, phone number, mail address and location" from the specified friend
-the information will be displayed in the form:
+get_search : retrieves the following information: "name, id, phone number, mail address and location" from the specified friend.
+The information will be displayed in the form:
 "name ="
 "id ="
 "mail =" 
 "phone =" 
 "location ="
+
 -------------------------------------------------------------------------------------
 token
 -------------------------------------------------------------------------------------
@@ -76,6 +84,7 @@ show_token : shows the used token.
 delete_token : delete the used token.
 load_token : refresh the token.
 add_token : add a token.
+
 -------------------------------------------------------------------------------------
 help
 -------------------------------------------------------------------------------------
