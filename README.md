@@ -46,20 +46,22 @@ il ne vous reste plus qu'a executer les commandes :)<br/>
 -------------------------------------------------------------------------------------
 get_phone <br/>
 -------------------------------------------------------------------------------------
-get_phone : retrieves the following information: "name, id, phone number, mail address and location" of all your friends with at least <br/>one telephone number.<br/>
+get_phone : retrieves the following information: "name, id, phone number, mail address and location" of all your friends with at least one phone number.
+<br/>
 The information will be displayed in the form: "name" + "id" + "phone number" + "mail address" + "location".
 
 -------------------------------------------------------------------------------------
 get_phone1
 -------------------------------------------------------------------------------------
-get_phone1 : retrieves the following information: "name" + "id" + "phone number" + "location" of all your friends with at least one <br/>telephone number.<br/>
+get_phone1 : retrieves the following information: "name" + "id" + "phone number" + "location" of all your friends with at least one phone number.
+<br/>
 The information will be displayed in the form: "name" + "id" + "phone number" + "location".
 
 -------------------------------------------------------------------------------------
 get_phone2
 -------------------------------------------------------------------------------------
-get_phone2 : retrieves the following information: "name" + "id" + "phone number" of all your friends with at least one telephone number.
-<br/>The information will be displayed in the form: "name" + "id" + "phone number".
+get_phone2 : retrieves the following information: "name" + "id" + "phone number" of all your friends with at least one telephone number.<br/>
+The information will be displayed in the form: "name" + "id" + "phone number".
 
 -------------------------------------------------------------------------------------
 get_mail 
