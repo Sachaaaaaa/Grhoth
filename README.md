@@ -3,6 +3,7 @@
 #Description
 -------------------------------------------------------------------------------------
 Grhoth it is an osint tool which is used to extract information from your facebook friends like email address, phone number or many other things
+Topic:osint
 
 #Installation
 -------------------------------------------------------------------------------------
